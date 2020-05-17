@@ -12,3 +12,7 @@ bu-li-xin-tai-yuan: three finger position
 repeat yesterday but try to improve the transition part
 r-g==j-g==b-l-x-t-y
 change the transition part: using index and pinky to play b-l-x-t-y
+* <2020-05-16 Sat> 880ae082ef3c4dc4b2b5996ab423da6a.mp3
+I found fix the left finger and try to find the minimal finger moment
+is very effective. Also, do one-note-by-one-note and recursively
+increase new one.
