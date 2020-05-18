@@ -16,3 +16,6 @@ change the transition part: using index and pinky to play b-l-x-t-y
 I found fix the left finger and try to find the minimal finger moment
 is very effective. Also, do one-note-by-one-note and recursively
 increase new one.
+* <2020-05-17 Sun> c41032112c5641e486b7098595380036.mp3
+Bad one. Try to connect r-g-a ... d-q-t
+Wrong notes and very bad connection.
