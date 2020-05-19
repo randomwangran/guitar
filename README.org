@@ -19,3 +19,5 @@ increase new one.
 * <2020-05-17 Sun> c41032112c5641e486b7098595380036.mp3
 Bad one. Try to connect r-g-a ... d-q-t
 Wrong notes and very bad connection.
+* <2020-05-18 Mon> 0846472399844cd883a01eb193538ecc.mp3
+better connection to w-y-m-c-z-l-d-q
