@@ -47,3 +47,5 @@ repeat yesterday
 q-f-q-k-y-y m-z-w-a-g-d-l
 * <2020-06-03 Wed> 8fcbef9726e74d5999b18b724573f2d4.mp3
 repeat yesterday q-f-q-k-y-y m-z-w-a-g-d-l
+* <2020-06-04 Thu> cc5436b5579d4fdfb0145016d4c01dfd.mp3
+q-f-q-k-y-y m-z-w-a-g-d-l m-g-j-c-h-w-y
