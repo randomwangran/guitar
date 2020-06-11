@@ -1,0 +1,31 @@
+I start to document the notes of the song, but I know nothing about
+the music theory.
+
+First, I find something like this on the Internet:
+
+#+begin_src lilypond :file dui-de-shi-jian-dian.png
+
+\layout { \omit Voice.StringNumber }
+\new StaffGroup <<
+   \new Staff \relative {
+     \clef "treble_8"
+     c16 d e f g4
+     c,16\5 d\5 e\4 f\4 g4\4
+     c,16 d e f g4
+   }
+   \new TabStaff \relative {
+     c16 d e f g4
+     c,16\5 d\5 e\4 f\4 g4\4
+     \set TabStaff.minimumFret = #5
+     \set TabStaff.restrainOpenStrings = ##t
+     c,16 d e f g4
+   }
+>>
+#+end_src
+
+#+RESULTS:
+[[file:dui-de-shi-jian-dian.png]]
+
+How to change the pitch? For example, I used the clip on the fourth
+fret, what does it mean? It seems that I miss a lot of info. It's time
+to put the guitar off and learn some ABCs.
