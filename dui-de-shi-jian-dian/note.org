@@ -24,7 +24,7 @@ First, I find something like this on the Internet:
 #+end_src
 
 #+RESULTS:
-[[file:dui-de-shi-jian-dian/dui-de-shi-jian-dian.png]]
+[[file:/dui-de-shi-jian-dian/dui-de-shi-jian-dian.png]]
 
 How to change the pitch? For example, I used the clip on the fourth
 fret, what does it mean? It seems that I miss a lot of info. It's time
