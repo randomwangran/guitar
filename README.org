@@ -21,6 +21,15 @@ There are three exercises for this week:
 - open chord exercises
 - Amazing Grace
 - Down in the valley
+** <2020-06-13 Sat> p15
+60 bpm
+
+3 times:
+C - - - Am - - - C - - - Am - - - C - - - G7 - - - C - - - Am - - -
+
+not able to
+
+D - - - G - - - D - - - A - - - D - - - G - - - D - - - Em - - -
 
 * song::dui-de-shi-jian-dian
 ** <2020-05-09 Sat> 2668443377b64f9590e0255655ce4a77.mp3
