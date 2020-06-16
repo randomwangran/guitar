@@ -31,7 +31,7 @@ not able to
 
 D - - - G - - - D - - - A - - - D - - - G - - - D - - - Em - - -
 ** <2020-06-14 Sun> open chord: D-G G-D
-
+** <2020-06-15 Mon> repeat D-G G-D also some exercises 3
 * song::dui-de-shi-jian-dian
 ** <2020-05-09 Sat> 2668443377b64f9590e0255655ce4a77.mp3
 no temporal whats so ever; just make it run...
