@@ -34,6 +34,7 @@ D - - - G - - - D - - - A - - - D - - - G - - - D - - - Em - - -
 ** <2020-06-15 Mon> repeat D-G G-D also some exercises 3
 ** <2020-06-16 Tue> D-G much smooth than yesterday
 practice 1,2,3 as batch but still not fluent.
+** <2020-06-17 Wed> open chord exercise & open chord exercise with Amazing Grace backtrack
 * song::dui-de-shi-jian-dian
 ** <2020-05-09 Sat> 2668443377b64f9590e0255655ce4a77.mp3
 no temporal whats so ever; just make it run...
