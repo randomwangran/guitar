@@ -49,67 +49,71 @@ a wonderful song: coming around the mountain
 from Dr. Brendan's channel: https://www.youtube.com/watch?v=Eci4YNYJU8I
 ** <2020-06-26 Fri> open cord exercise
 * song::dui-de-shi-jian-dian
-** <2020-05-09 Sat> 2668443377b64f9590e0255655ce4a77.mp3
-no temporal whats so ever; just make it run...
-** <2020-05-10 Sun> 57abdd038b9f44cdb9a564d771327243.mp3
-2nd record-finished, little bit unusual
-** <2020-05-12 Tue> b8bc0ed6f6b449d08876ce10023d6a6e.mp3
-focus on sequence of left finger
-** <2020-05-13 Wed> a005310bb187403d80d9a3c961af5241.mp3
-bu-li-xin-tai-yuan: three finger position
-** <2020-05-14 Thu> aac15be7e67048838c7b96f181d02f9e.mp3
-repeat yesterday but try to improve the transition part
-r-g==j-g==b-l-x-t-y
-change the transition part: using index and pinky to play b-l-x-t-y
-** <2020-05-16 Sat> 880ae082ef3c4dc4b2b5996ab423da6a.mp3
-I found fix the left finger and try to find the minimal finger moment
-is very effective. Also, do one-note-by-one-note and recursively
-increase new one.
-** <2020-05-17 Sun> c41032112c5641e486b7098595380036.mp3
-Bad one. Try to connect r-g-a ... d-q-t
-Wrong notes and very bad connection.
-** <2020-05-18 Mon> 0846472399844cd883a01eb193538ecc.mp3
-better connection to w-y-m-c-z-l-d-q
-** <2020-05-19 Tue> f0e72725e5ab4b108d14d0a6d98f140e.mp3
-bu tuo li gui dao you ni zai shen bian
-** <2020-05-20 Wed> 84b9140f919c461a92dad10ea120722e.mp3
-r-g 2 s-b
-** <2020-05-21 Thu> 5445d628476343d5956d83979ef93239.mp3
-bu tuo li gui dao you ni zai shen bian
-much fluent than <2020-05-19 Tue>.
-** <2020-05-22 Fri> db66ceab330e45ea84bb88d7bbc5efc2.mp3
-from r-g-a-q-s-c-y-c-d-w-x to b-t-l-g-d-y-n-z-s-b
-** <2020-05-25 Mon> 04570875af92428d8f6c21ccaaa55078.mp3
-a long run from beg to b-t-l-g-d-y-n-z-s-b
-** <2020-05-26 Tue> 71c597d218874a19be45cc8b736b257e.mp3
-1st with bu-guan-qian-hui-bai-zhuan-fang-xiang-bu-hui-bian
-** <2020-05-27 Wed> d0766c13866c40878aec3029c95f300c.mp3
-qi-fei-qian-kan-yi-yan
-** <2020-05-28 Thu> 65bfa93101eb48b989164de6847d5907.mp3
-- qi-fei-qian-kan-yi-yan
-- mei-zhang-wo-ai-guo-de-lian
-** <2020-05-29 Fri> 5c332b19f4324a0287ddb07f530861a6.mp3
-repeat yesterday
-** <2020-05-30 Sat> 87227b728d6d43729a4a2cf21c0337d8.mp3
-- mei-ge-jiao-cuo-he-wu-yuan
-** <2020-06-02 Tue> 75c0dab783d2428fb2c8babd2b80d619.mp3
-q-f-q-k-y-y m-z-w-a-g-d-l
-** <2020-06-03 Wed> 8fcbef9726e74d5999b18b724573f2d4.mp3
-repeat yesterday q-f-q-k-y-y m-z-w-a-g-d-l
-** <2020-06-04 Thu> cc5436b5579d4fdfb0145016d4c01dfd.mp3
-q-f-q-k-y-y m-z-w-a-g-d-l m-g-j-c-h-w-y
-** <2020-06-05 Fri> 0d61e3d423a3447aa9ab52aae8ff5409.mp3
-r-g-a-q-s-c-y-c-d-w-x j-g-r-z-q-z-f-x-b-h-b
-q-f-q-k-y-y m-z-w-a-g-d-l m-g-j-c-h-w-y
-** <2020-06-06 Sat> 171684e02ab947a6b3f650a8df9fffb4.mp3
-dou-zai-qian-yi-shi-tiao-yuan
-Last two notes are hard. Very slow to make the shift.
-** <2020-06-07 Sun> bd8646ce31b74ac39e0202a10d1b140d.mp3
-dui de shi jian dian
-** <2020-06-08 Mon> 57aeb01da89348ac80a649a09d83f5b4.mp3
-q-f-q-k-y-y m-z-w-a-g-d-l m-g-j-c-h-w-y
-** <2020-06-09 Tue> df79ffbf1d7b45349816c96ad09fa797.mp3
-q-f-q-k-y-y till d-d-s-j-d
-** <2020-06-10 Wed> no recording
-I just find that the rest part is repeat what I've practice.
-** <2020-06-25 Thu> no recording
+** full
+*** <2020-12-08 Tue> 93504a7fb72440cbbe284e53e7304c47.mp3
+    1st time recording the full version.
+** small
+*** <2020-05-09 Sat> 2668443377b64f9590e0255655ce4a77.mp3
+ no temporal whats so ever; just make it run...
+*** <2020-05-10 Sun> 57abdd038b9f44cdb9a564d771327243.mp3
+ 2nd record-finished, little bit unusual
+*** <2020-05-12 Tue> b8bc0ed6f6b449d08876ce10023d6a6e.mp3
+ focus on sequence of left finger
+*** <2020-05-13 Wed> a005310bb187403d80d9a3c961af5241.mp3
+ bu-li-xin-tai-yuan: three finger position
+*** <2020-05-14 Thu> aac15be7e67048838c7b96f181d02f9e.mp3
+ repeat yesterday but try to improve the transition part
+ r-g==j-g==b-l-x-t-y
+ change the transition part: using index and pinky to play b-l-x-t-y
+*** <2020-05-16 Sat> 880ae082ef3c4dc4b2b5996ab423da6a.mp3
+ I found fix the left finger and try to find the minimal finger moment
+ is very effective. Also, do one-note-by-one-note and recursively
+ increase new one.
+*** <2020-05-17 Sun> c41032112c5641e486b7098595380036.mp3
+ Bad one. Try to connect r-g-a ... d-q-t
+ Wrong notes and very bad connection.
+*** <2020-05-18 Mon> 0846472399844cd883a01eb193538ecc.mp3
+ better connection to w-y-m-c-z-l-d-q
+*** <2020-05-19 Tue> f0e72725e5ab4b108d14d0a6d98f140e.mp3
+ bu tuo li gui dao you ni zai shen bian
+*** <2020-05-20 Wed> 84b9140f919c461a92dad10ea120722e.mp3
+ r-g 2 s-b
+*** <2020-05-21 Thu> 5445d628476343d5956d83979ef93239.mp3
+ bu tuo li gui dao you ni zai shen bian
+ much fluent than <2020-05-19 Tue>.
+*** <2020-05-22 Fri> db66ceab330e45ea84bb88d7bbc5efc2.mp3
+ from r-g-a-q-s-c-y-c-d-w-x to b-t-l-g-d-y-n-z-s-b
+*** <2020-05-25 Mon> 04570875af92428d8f6c21ccaaa55078.mp3
+ a long run from beg to b-t-l-g-d-y-n-z-s-b
+*** <2020-05-26 Tue> 71c597d218874a19be45cc8b736b257e.mp3
+ 1st with bu-guan-qian-hui-bai-zhuan-fang-xiang-bu-hui-bian
+*** <2020-05-27 Wed> d0766c13866c40878aec3029c95f300c.mp3
+ qi-fei-qian-kan-yi-yan
+*** <2020-05-28 Thu> 65bfa93101eb48b989164de6847d5907.mp3
+ - qi-fei-qian-kan-yi-yan
+ - mei-zhang-wo-ai-guo-de-lian
+*** <2020-05-29 Fri> 5c332b19f4324a0287ddb07f530861a6.mp3
+ repeat yesterday
+*** <2020-05-30 Sat> 87227b728d6d43729a4a2cf21c0337d8.mp3
+ - mei-ge-jiao-cuo-he-wu-yuan
+*** <2020-06-02 Tue> 75c0dab783d2428fb2c8babd2b80d619.mp3
+ q-f-q-k-y-y m-z-w-a-g-d-l
+*** <2020-06-03 Wed> 8fcbef9726e74d5999b18b724573f2d4.mp3
+ repeat yesterday q-f-q-k-y-y m-z-w-a-g-d-l
+*** <2020-06-04 Thu> cc5436b5579d4fdfb0145016d4c01dfd.mp3
+ q-f-q-k-y-y m-z-w-a-g-d-l m-g-j-c-h-w-y
+*** <2020-06-05 Fri> 0d61e3d423a3447aa9ab52aae8ff5409.mp3
+ r-g-a-q-s-c-y-c-d-w-x j-g-r-z-q-z-f-x-b-h-b
+ q-f-q-k-y-y m-z-w-a-g-d-l m-g-j-c-h-w-y
+*** <2020-06-06 Sat> 171684e02ab947a6b3f650a8df9fffb4.mp3
+ dou-zai-qian-yi-shi-tiao-yuan
+ Last two notes are hard. Very slow to make the shift.
+*** <2020-06-07 Sun> bd8646ce31b74ac39e0202a10d1b140d.mp3
+ dui de shi jian dian
+*** <2020-06-08 Mon> 57aeb01da89348ac80a649a09d83f5b4.mp3
+ q-f-q-k-y-y m-z-w-a-g-d-l m-g-j-c-h-w-y
+*** <2020-06-09 Tue> df79ffbf1d7b45349816c96ad09fa797.mp3
+ q-f-q-k-y-y till d-d-s-j-d
+*** <2020-06-10 Wed> no recording
+ I just find that the rest part is repeat what I've practice.
+*** <2020-06-25 Thu> no recording
